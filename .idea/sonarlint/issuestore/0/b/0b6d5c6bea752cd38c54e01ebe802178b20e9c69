@@ -1,0 +1,13 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÙÓÙÿÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(šÎd
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(³ƒâÇûÿÿÿÿ
+\
+java:S2142,"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+\
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(ÿ¸·€úÿÿÿÿ
+G
+java:S5411%"*Use the primitive boolean expression here.(”’ë÷8ï«…›‹/
+L
+java:S5411"*Use the primitive boolean expression here.(”•Ã’üÿÿÿÿ8¨…›‹/

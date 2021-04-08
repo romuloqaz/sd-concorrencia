@@ -1,0 +1,10 @@
+
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(±ð¥—
+V
+java:S2274";Remove this call to "await" or move it into a "while" loop.(ÁÒ´Øþÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Äýª‘
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ú¡âØ
+w	java:S116"VRename this field "Busybuffers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(žÉÝ™ùÿÿÿÿ8ò‚øš‹/
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(´–çøþÿÿÿÿ
+V
+java:S2274,";Remove this call to "await" or move it into a "while" loop.(»û¹Ÿÿÿÿÿÿ
